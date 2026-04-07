@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jaroslaw Drzewiecki de Oganczyk
 
-### A passionate developer from [Your Country/City]
+### I am an Intune/Workstation Admin 
 
-I love building things and learning new technologies. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 ---
 
