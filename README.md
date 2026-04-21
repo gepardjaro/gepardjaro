@@ -1,39 +1,23 @@
-# Hi there, I'm Jaroslaw Drzewiecki de Oganczyk
+# Jarosław Drzewiecki de Ogańczyk
 
-### I am an Intune/Workstation Admin 
-
-Welcome to my GitHub profile!
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name / Link]**
-- 🌱 I’m currently learning **[Technology / Framework]**
-- 👯 I’m looking to collaborate on **[Open Source Projects / Ideas]**
-- 💬 Ask me about **[Your Expertise, e.g., React, Python, Data Science]**
-- 📫 How to reach me: **[Your Email or LinkedIn Link]**
-- ⚡ Fun fact: **[Insert a fun fact about yourself]**
+Intune / Workstation Admin — Poland
+Automating endpoint management and Windows tooling.
 
 ---
 
-### 💻 Tech Stack
-*Feel free to add your own badges here!*
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Projects
+
+| Repo | Description |
+|------|-------------|
+| [Intune-PSADT-winget-packager](https://github.com/gepardjaro/Intune-PSADT-winget-packager) | Intune app packaging with PSADT and winget |
+| [Intune-M365-Apps-Language-Installer-UI](https://github.com/gepardjaro/Intune-M365-Apps-Language-Installer-UI) | M365 language installer UI built on PSADT 4.1.x |
 
 ---
 
-### 📊 My GitHub Stats
+## Contributions
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Your GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
+| Repo | PR | Status |
+|------|----|--------|
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Add WPFToggleScrollbars — always show scrollbars | Merged |
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Fix InitialKeyboardIndicators registry type (DWORD → String) | Merged |
+| [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) | Auto-fit column width | Closed and PRed separately |
