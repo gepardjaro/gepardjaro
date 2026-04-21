@@ -9,8 +9,9 @@ Automating endpoint management and Windows tooling.
 
 | Repo | Description |
 |------|-------------|
-| [Intune-PSADT-winget-packager](https://github.com/gepardjaro/Intune-PSADT-winget-packager) | Intune app packaging with PSADT and winget |
-| [Intune-M365-Apps-Language-Installer-UI](https://github.com/gepardjaro/Intune-M365-Apps-Language-Installer-UI) | M365 language installer UI built on PSADT 4.1.x |
+| [Intune-M365-Apps-Language-Installer-UI](https://github.com/gepardjaro/Intune-M365-Apps-Language-Installer-UI) | **[READY]** M365 language installer UI built on PSADT 4.1.x |
+| [Intune-PSADT-winget-packager](https://github.com/gepardjaro/Intune-PSADT-winget-packager) | _[IN PROGRESS]_ Intune app packaging with PSADT and winget |
+
 
 ---
 
