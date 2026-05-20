@@ -21,4 +21,5 @@ Automating endpoint management and Windows tooling.
 |------|----|--------|
 | [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Add WPFToggleScrollbars — always show scrollbars | Merged |
 | [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Fix InitialKeyboardIndicators registry type (DWORD → String) | Merged |
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Add EnableLongPath | Merged |
 | [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) | Auto-fit column width | Closed and PRed separately |
