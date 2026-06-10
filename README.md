@@ -27,7 +27,10 @@ Jarosław Drzewiecki de Ogańczyk
 
 [![winutil](https://github-readme-stats.vercel.app/api/pin/?username=ChrisTitusTech&repo=winutil&theme=tokyonight&hide_border=true)](https://github.com/ChrisTitusTech/winutil)
 
-<img src="https://github-contributor-stats.vercel.app/api?username=gepardjaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+[![cmtraceopen](https://github-readme-stats.vercel.app/api/pin/?username=adamgell&repo=cmtraceopen&theme=tokyonight&hide_border=true)](https://github.com/adamgell/cmtraceopen)
+
+[![Intune-PSADT-winget-packager](https://github-readme-stats.vercel.app/api/pin/?username=gepardjaro&repo=Intune-PSADT-winget-packager&theme=tokyonight&hide_border=true)](https://github.com/gepardjaro/Intune-PSADT-winget-packager)
+[![Intune-M365-Apps-Language-Installer-UI](https://github-readme-stats.vercel.app/api/pin/?username=gepardjaro&repo=Intune-M365-Apps-Language-Installer-UI&theme=tokyonight&hide_border=true)](https://github.com/gepardjaro/Intune-M365-Apps-Language-Installer-UI)
 
 </div>
 
