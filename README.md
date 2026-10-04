@@ -5,7 +5,7 @@ Jarosław Drzewiecki de Ogańczyk
 
 **Endpoint Engineer · PowerShell Automator · Linux Tinkerer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=gepardjaro&color=blueviolet&style=flat-square)
+![Profile Views](https://hits.sh/github.com/gepardjaro.svg?label=Profile%20views&color=8a2be2&style=flat-square)
 
 </div>
 
@@ -21,6 +21,8 @@ Jarosław Drzewiecki de Ogańczyk
 ![Arch](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white)
 
 ## 🤝 Open Source Contributions
 
@@ -50,22 +52,6 @@ Jarosław Drzewiecki de Ogańczyk
 ## 📈 Activity Graph
 
 [![Activity Graph](https://activity-graph.vercel.app/graph?username=gepardjaro&theme=tokyo-night&hide_border=true)](https://github.com/gepardjaro)
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-trophies.vercel.app/?username=gepardjaro&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/gepardjaro)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/gepardjaro/gepardjaro/output/github-snake-dark.svg)
-
-</div>
 
 ---
 
