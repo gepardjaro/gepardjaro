@@ -49,14 +49,13 @@ Jarosław Drzewiecki de Ogańczyk
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gepardjaro&theme=tokyo-night&hide_border=true)](https://github.com/gepardjaro)
-
+[![Activity Graph](https://activity-graph.vercel.app/graph?username=gepardjaro&theme=tokyo-night&hide_border=true)](https://github.com/gepardjaro)
 
 ## 🏆 Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gepardjaro&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/gepardjaro)
+[![Trophies](https://github-trophies.vercel.app/?username=gepardjaro&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/gepardjaro)
 
 </div>
 
@@ -69,12 +68,6 @@ Jarosław Drzewiecki de Ogańczyk
 </div>
 
 ---
-
-<details>
-<summary>⚡ Currently hacking on</summary>
-
-
-</details>
 
 <div align="center">
 
